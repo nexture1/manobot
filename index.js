@@ -6,7 +6,7 @@ const talkedRecently = new Set();
 const roblox = require('noblox.js')
 const Discord = require('discord.js')
 const client = new Discord.Client();
-var token = "NTY4OTY2NjQzOTI2MDQwNTc3.XLpxgA.XRsOTckVVh3Vr_C-6cpELJH7EpE";
+var token = "NTY5ODcyMzk5MzQwOTI5MDI0.XNS34w.yvRyJd8cLPtKcdAvUcyZGuApt78";
 
 client.login(token)
 
